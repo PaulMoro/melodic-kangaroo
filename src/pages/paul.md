@@ -10,7 +10,7 @@ sections:
           ### Como reducir el abdomen
 
 
-          Hicimos toda una colección para que tengas un cuerpo soñado.  Aquí
+          Hicimos toda una colección para que **tengas un cuerpo soñado**.  Aquí
           verás cuál es la mejor, si en verdad sirve una faja reductora,
           beneficios y cómo usar esta prenda.
         content_align: left
