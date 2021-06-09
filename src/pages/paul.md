@@ -138,10 +138,10 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         content: |+
-          | Syntax      | Description | Test Text     |
-          | :---        |    :----:   |          ---: |
-          | Header      | Title       | Here's this   |
-          | Paragraph   | Text        | And more      |
+          | Syntax      | Description |
+          | ----------- | ----------- |
+          | Header      | Title       |
+          | Paragraph   | Text        |
 
         actions: []
         image_alt: lorem-ipsum
