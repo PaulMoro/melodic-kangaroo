@@ -260,9 +260,9 @@ sections:
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           | Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+            | ----------- | ----------- |
+            | Header      | Title       |
+            | Paragraph   | Text        |
         actions:
           - label: Learn More
             url: /style-guide
