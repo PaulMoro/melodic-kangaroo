@@ -62,7 +62,6 @@ sections:
         type: grid_item
         image: images/hilary-ouse.jpg
       - title: Fajas Colombinas
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
