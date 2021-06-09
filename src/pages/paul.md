@@ -132,7 +132,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - title: 'Top '
+  - title: Top de las mejores fajas 2021
     actions: []
     grid_items: []
     grid_cols: three
