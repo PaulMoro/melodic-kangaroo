@@ -33,7 +33,7 @@ sections:
     align: center
     background_color: secondary
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: fdg
     actions: []
     grid_items:
       - title: lorem-ipsum
