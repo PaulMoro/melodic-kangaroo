@@ -293,8 +293,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - title: Cuanto tiempo
-    features:
+  - features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         content: >-
