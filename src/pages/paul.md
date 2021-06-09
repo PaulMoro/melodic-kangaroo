@@ -32,7 +32,7 @@ sections:
     grid_cols: four
     align: center
     background_color: secondary
-  - title: lorem-ipsum
+  - title: Esta es la mejor pagina
     actions: []
     grid_items:
       - title: lorem-ipsum
