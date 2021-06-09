@@ -135,7 +135,7 @@ sections:
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     features:
-      - title: lorem-ipsum
+      - title: Top 9 de las mejores fajas
         subtitle: lorem-ipsum
         content: |+
           | Syntax      | Description |
