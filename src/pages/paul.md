@@ -137,16 +137,8 @@ sections:
     grid_items:
       - title_align: left
         content: >
-          ## ![](/\_static/app-assets/about-5.jpg)Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
+          ## ![](/\_static/app-assets/about-5.jpg)[Lorem
+          ipsum](https://amzn.to/34ZonG7)
 
 
           ![](/\_static/app-assets/about-3.jpg)
