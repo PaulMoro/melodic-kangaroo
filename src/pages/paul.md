@@ -306,7 +306,7 @@ sections:
           experta, criterios para elegir tu faja indicada. Ya es solo cuestión
           de **tiempo para que esa cintura se vea espectacular!**
         actions:
-          - label: lorem-ipsum
+          - label: Seguir leyendo
             url: '#'
             style: link
             has_icon: false
