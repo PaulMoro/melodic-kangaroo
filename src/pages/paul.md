@@ -77,7 +77,7 @@ sections:
           - dolor sit amet
         content_align: left
         actions:
-          - label: Ver modelor
+          - label: Ver modelos
             url: '#'
             style: link
             has_icon: false
