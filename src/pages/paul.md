@@ -62,7 +62,6 @@ sections:
         type: grid_item
         image: images/about-5.jpg
       - title: Fajas para Hombre
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
