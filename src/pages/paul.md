@@ -33,7 +33,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/hilary-ouse.jpg
-      - title: Fajas Colombina
+      - title: Faja Colombina
         title_align: left
         content: >
           ### Fajas Colombianas Originales
