@@ -91,7 +91,6 @@ sections:
         type: grid_item
         image: images/about-1.jpg
       - title: faja postparto
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
