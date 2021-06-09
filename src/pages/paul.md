@@ -70,9 +70,8 @@ sections:
           ### Fajas Colombianas Originales
 
 
-          Vamos a ver precios, beneficios y usos de estas fajas. Queremos que
-          tengas el cuerpo deseado con una faja colombiana. Aquí te diremos cómo
-          hacerlo.
+          Vamos a ver precios, beneficios y usos de estas fajas. trabajamos
+          mucho para que tengas la mejor faja colombiana. Aquí te diremos.
         content_align: left
         actions:
           - label: Ver modelos
