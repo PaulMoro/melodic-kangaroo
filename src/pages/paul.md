@@ -229,6 +229,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: blog_feed_section
+    background_image: images/brandon-guidelines.png
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     features:
