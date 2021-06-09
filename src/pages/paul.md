@@ -96,8 +96,8 @@ sections:
           ### Las mejores fajas postparto
 
 
-          Queremos que tengas \*\*un cuerpo precioso\*\*. Dedicamos un espacio a
-          la mamá para **recuperar y mejorar** toda tu figura.
+          Queremos que tengas **un cuerpo precioso**. Dedicamos un espacio a la
+          mamá para **recuperar y mejorar** toda tu figura.
         content_align: left
         actions:
           - label: Ver modelos
