@@ -35,7 +35,7 @@ sections:
   - title: Esta es la mejor pagina de fajas
     actions: []
     grid_items:
-      - title: Fajas Reductoras
+      - title: Faja Reductora
         title_align: left
         content: >
           ### Como reducir el abdomen
