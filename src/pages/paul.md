@@ -64,16 +64,12 @@ sections:
       - title: Fajas Colombinas
         title_align: left
         content: >
-          ## Fajas 
+          ### Fajas Colombianas Originales
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
+          Vamos a ver precios, beneficios y usos de estas fajas. Queremos que
+          tengas el cuerpo deseado con una faja colombiana. Aquí te diremos cómo
+          hacerlo.
         content_align: left
         actions:
           - label: Ver modelos
