@@ -92,17 +92,12 @@ sections:
         image: images/about-1.jpg
       - title: faja Postparto
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ### Las mejores fajas postparto
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Queremos que tengas **un cuerpo precioso. **Dedicamos un espacio a la
+          mamá para **recuperar y mejorar** toda tu figura.
         content_align: left
         actions:
           - label: Ver modelos
