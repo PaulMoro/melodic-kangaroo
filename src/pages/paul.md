@@ -32,7 +32,7 @@ sections:
     grid_cols: four
     align: center
     background_color: secondary
-  - title: Esta es la mejor pagina
+  - title: Esta es la mejor pagina de fajas
     actions: []
     grid_items:
       - title: lorem-ipsum
