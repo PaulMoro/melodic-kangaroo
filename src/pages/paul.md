@@ -295,7 +295,6 @@ sections:
     type: grid_section
   - features:
       - title: Cuánto tiempo se debe usar una faja para moldear la cintura?
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
