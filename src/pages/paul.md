@@ -37,17 +37,10 @@ sections:
     grid_items:
       - title: Fajas Reductoras
         title_align: left
-        content: >
-          ### Aprende de las fajas de abdomen
+        content: |
+          ### Como reducir el abdomen
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
+           Hicimos toda una colección para que aprendas acerca de fajas reductoras.  Aquí verás cuál es la mejor, si en verdad sirve una faja reductora, beneficios y como usar esta prenda.
         content_align: left
         actions:
           - label: ver modelos
