@@ -41,9 +41,9 @@ sections:
           ### Como reducir el abdomen
 
 
-          Hicimos toda una colección para que aprendas acerca de fajas
-          reductoras.  Aquí verás cuál es la mejor, si en verdad sirve una faja
-          reductora, beneficios y cómo usar esta prenda.
+          Hicimos toda una colección para que tengas un cuerpo soñado.  Aquí
+          verás cuál es la mejor, si en verdad sirve una faja reductora,
+          beneficios y cómo usar esta prenda.
         content_align: left
         actions:
           - label: ver modelos
