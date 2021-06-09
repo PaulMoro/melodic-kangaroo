@@ -36,7 +36,6 @@ sections:
     actions: []
     grid_items:
       - title: Fajas Reductoras
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
