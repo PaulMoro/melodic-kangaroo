@@ -135,23 +135,6 @@ sections:
   - title: Las mejores fajas de siempre
     actions: []
     grid_items:
-      - title_align: left
-        content: >
-          ## ![](/\_static/app-assets/about-5.jpg)[Lorem
-          ipsum](https://amzn.to/34ZonG7)
-
-
-          ![](/\_static/app-assets/about-3.jpg)
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
