@@ -99,7 +99,7 @@ sections:
           - dolor sit amet
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: ver modelos
             url: '#'
             style: primary
             has_icon: true
