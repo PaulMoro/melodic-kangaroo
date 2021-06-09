@@ -147,6 +147,9 @@ sections:
           *   Lorem ipsum
 
           *   dolor sit amet
+
+
+          ![](/\_static/app-assets/about-3.jpg)
         content_align: left
         actions: []
         actions_align: left
