@@ -161,16 +161,7 @@ sections:
         subtitle: lorem-ipsum
         title_align: left
         content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          <a href="https://www.amazon.com/-/es/ShaperX-control-abdomen-modelador-cremallera/dp/B0834LGVTL?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=girdle&qid=1623208658&sr=8-5&linkCode=li3&tag=fajas0b-20&linkId=a87bdf206c5fdc1da34ae26a5a9efff9&language=es_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0834LGVTL&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=fajas0b-20&language=es_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=fajas0b-20&language=es_US&l=li3&o=1&a=B0834LGVTL" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
         content_align: left
         actions: []
         actions_align: left
