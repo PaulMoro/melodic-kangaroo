@@ -63,17 +63,13 @@ sections:
         image: images/about-5.jpg
       - title: Fajas para Hombre
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ### Para qué la vas a usar?
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Tenemos una sección de todas las fajas de hombre. Si necesitas una
+          **faja reductora** o para hacer ejercicio, una **faja de trabajo** o
+          tipo camiseta
         content_align: left
         actions:
           - label: Ver modelos
