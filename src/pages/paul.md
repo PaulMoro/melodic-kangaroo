@@ -35,7 +35,7 @@ sections:
   - title: Esta es la mejor pagina de fajas
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Fajas Reductoras
         subtitle: lorem-ipsum
         title_align: left
         content: >-
