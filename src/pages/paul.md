@@ -295,17 +295,16 @@ sections:
     type: grid_section
   - features:
       - title: Cuánto tiempo se debe usar una faja para moldear la cintura?
-        content: >-
-          ## Lorem ipsum
+        content: >
+          quí vamos a ver leyes, reglas e importantes consejos para que tu faja
+          muestre **resultados en poco tiempo**, de 1 a 3 meses, con sencillos
+          pasos.  Además te daré un par de herramientas que fortalecerán tu
+          camino para ese cuerpo deseado. 
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Cuando termines esta lectura, vas a tener los tips de toda una
+          experta, criterios para elegir tu faja indicada. Ya es solo cuestión
+          de **tiempo para que esa cintura se vea espectacular!** 
         actions: []
         image_alt: lorem-ipsum
         media_position: top
