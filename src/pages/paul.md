@@ -90,7 +90,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/about-1.jpg
-      - title: faja postparto
+      - title: faja Postparto
         title_align: left
         content: >-
           ## Lorem ipsum
