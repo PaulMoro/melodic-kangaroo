@@ -68,6 +68,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/hilary-ouse.jpg
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
