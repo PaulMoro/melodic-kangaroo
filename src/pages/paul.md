@@ -135,8 +135,7 @@ sections:
   - title: Las mejores fajas de siempre
     actions: []
     grid_items:
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: >-
           ## Lorem ipsum
 
