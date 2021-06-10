@@ -132,7 +132,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - title: Las mejores fajas de siempre
+  - title: Las más recomendadas
     actions: []
     grid_items:
       - title: lorem-ipsum
