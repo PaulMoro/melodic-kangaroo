@@ -320,6 +320,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: images/classic/feature-1.png
       - title: Top 10 de fajas para el cuerpo
         actions: []
         image_alt: lorem-ipsum
