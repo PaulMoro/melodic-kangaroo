@@ -328,25 +328,39 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        content: >
+        content: >+
           Esto es contenido
 
 
-
-
-          |                |ASCII                         
-          |HTML                         |
+          | puesto | Imagen | Precio | Valorizaciones | Opiniones | Envio Gratis
+          | Compra |
 
           |----------------|-------------------------------|-----------------------------|
 
-          |Single backticks|'Isn't this fun?'            |'Isn't this
-          fun?'            |
+          |-  ##1 -|-   -|-   -|-   -|-   -|-    -|-    -|
 
-          |Quotes          |"Isn't this fun?"            |"Isn't this
-          fun?"            |
+          |-  ##2 -|-   -|-   -|-   -|-   -|-    -|-    -|
 
-          |Dashes          |-- is en-dash, --- is em-dash|-- is en-dash, --- is
-          em-dash|
+          |-  ##3 -|-   -|-   -|-   -|-   -|-    -|-    -|
+
+          |- ##4 -|-   -|-   -|-   -|-   -|-    -|-    -|
+
+          |- ##5 -|-   -|-   -|-   -|-   -|-    -|-    -|
+
+          |- ##6 -|-   -|-   -|-   -|-   -|-    -|-    -|
+
+          |- ##7 -|-   -|-   -|-   -|-   -|-    -|-    -|
+
+          |- ##8 -|-   -|-   -|-   -|-   -|-    -|-    -|
+
+          |- ##9 -|-   -|-   -|-   -|-   -|-    -|-    -|
+
+          |- ##10 -|-   -|-   -|-   -|-   -|-    -|-    -|
+
+
+
+
+
     feature_padding_vert: medium
     align: center
     padding_top: medium
