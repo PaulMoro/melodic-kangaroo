@@ -321,7 +321,6 @@ sections:
         align: left
         type: feature
       - title: Top 10 de fajas para el cuerpo
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
