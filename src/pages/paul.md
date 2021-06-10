@@ -320,7 +320,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-      - title: lorem-ipsum
+      - title: Top 10 de fajas para el cuerpo
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
