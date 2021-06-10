@@ -318,7 +318,7 @@ sections:
         image_alt: lorem-ipsum
         media_position: right
         media_width: fifty
-        align: left
+        align: center
         type: feature
         image: images/classic/feature-1.png
       - title: Top 10 de fajas para el cuerpo
