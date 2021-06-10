@@ -328,6 +328,25 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        content: >
+          Esto es contenido
+
+
+
+
+          |                |ASCII                         
+          |HTML                         |
+
+          |----------------|-------------------------------|-----------------------------|
+
+          |Single backticks|'Isn't this fun?'            |'Isn't this
+          fun?'            |
+
+          |Quotes          |"Isn't this fun?"            |"Isn't this
+          fun?"            |
+
+          |Dashes          |-- is en-dash, --- is em-dash|-- is en-dash, --- is
+          em-dash|
     feature_padding_vert: medium
     align: center
     padding_top: medium
