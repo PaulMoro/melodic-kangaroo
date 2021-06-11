@@ -417,6 +417,16 @@ sections:
         title_align: center
         image: images/dianne-ameter.jpg
         image_position: top
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
       - title: Hugh Saturation
         subtitle: Developer Advocate
         title_align: center
