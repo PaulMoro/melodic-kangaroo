@@ -408,7 +408,7 @@ sections:
         image: images/hugh-saturation.jpg
         image_position: top
         actions:
-          - label: lorem-ipsum
+          - label: Leer
             url: '#'
             style: primary
             has_icon: true
