@@ -414,7 +414,6 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: ¿Qué faja es mejor para hacer ejercicio?
-        subtitle: Software Engineer
         title_align: center
         image: images/dianne-ameter.jpg
         image_position: top
