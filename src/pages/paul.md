@@ -416,7 +416,7 @@ sections:
     background_color: none
   - type: hero_section
     title: ¿Cuál es la mejor marca de fajas colombianas?
-    subtitle: Te vamso a enseñar cómo elegir una buena faja
+    subtitle: Te vamos a enseñar cómo elegir una buena faja
     content: >+
       Tenemos una tabla con el top de fajas colombianas, una coleccion de
       prendas, con comentarios y calificacioes para que eligas la mejor faja que
