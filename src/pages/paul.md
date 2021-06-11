@@ -427,7 +427,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - title: Hugh Saturation
+      - title: ¿Cuál es la mejor faja post operatoria?
         subtitle: Developer Advocate
         title_align: center
         image: images/hugh-saturation.jpg
