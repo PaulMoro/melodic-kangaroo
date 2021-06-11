@@ -376,7 +376,6 @@ sections:
         style: primary
     grid_items:
       - title: ¿Cómo se deben usar las fajas?
-        subtitle: Co-Founder & CEO
         title_align: center
         image: images/gustav-purpleson.jpg
         image_position: top
