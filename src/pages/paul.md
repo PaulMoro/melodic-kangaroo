@@ -370,7 +370,6 @@ sections:
     type: features_section
   - type: grid_section
     title: Tienes dudas sobre usar faja?
-    subtitle: Grid Section Example
     actions:
       - label: Join the team
         url: /style-guide
