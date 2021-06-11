@@ -418,7 +418,7 @@ sections:
         image: images/dianne-ameter.jpg
         image_position: top
         actions:
-          - label: lorem-ipsum
+          - label: let
             url: '#'
             style: link
             has_icon: false
