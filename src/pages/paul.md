@@ -407,6 +407,16 @@ sections:
         title_align: center
         image: images/hugh-saturation.jpg
         image_position: top
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
     grid_cols: three
     align: center
     background_color: none
