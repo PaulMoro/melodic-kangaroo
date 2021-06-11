@@ -423,7 +423,7 @@ sections:
       se ajuste a tu cuerpo y te haga llegar a los resultados que esperas.
 
     actions:
-      - label: Try Free
+      - label: Ir a ver
         url: /pricing
         style: primary
     image: images/classic/hero.png
