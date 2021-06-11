@@ -337,7 +337,8 @@ sections:
 
           |-------|-----------|-------------|-------|-----------|-------------|-------|
 
-          |1 |-   -|-   -|-   -|-   -|-    -|-    -|
+          |1 |![](/\_static/app-assets/about-2.jpg)|-   -|-   -|-   -|-   
+          -|-    -|
 
           |2|-   -|-   -|-   -|-   -|-    -|-    -|
 
@@ -355,8 +356,7 @@ sections:
 
           |9|-   -|-   -|-   -|-   -|-    -|-    -|
 
-          |10|-   -|-   -|-   -|-   -|-    -|-   
-          -|![](https://www.amazon.com/-/es/Nebility-Chaleco-cremallera-para-mujer/dp/B07CJ4X4DG/ref=sr\_1\_40?\__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91\&dchild=1\&keywords=girdle\&qid=1623260879\&sr=8-40\&th=1)
+          |10|-   -|-   -|-   -|-   -|-    -|-    -|
     feature_padding_vert: medium
     align: center
     padding_top: medium
