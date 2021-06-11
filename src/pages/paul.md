@@ -515,7 +515,7 @@ sections:
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: fifty
-      - title: lorem-ipsum
+      - title: ¿Cuál es el mejor material para las fajas?
         subtitle: lorem-ipsum
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
