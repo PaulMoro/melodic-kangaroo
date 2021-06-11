@@ -469,7 +469,7 @@ sections:
     title: Features Section
     subtitle: Features Section Example
     features:
-      - title: The Big Title For the Feature
+      - title: ¿Qué pasa si me pongo faja todos los días?
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         actions:
           - label: Learn More
