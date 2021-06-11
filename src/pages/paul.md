@@ -426,9 +426,6 @@ sections:
       - label: Try Free
         url: /pricing
         style: primary
-      - label: Learn More
-        url: /features
-        style: secondary
     image: images/classic/hero.png
     image_alt: Hero section placeholder image
     media_position: left
