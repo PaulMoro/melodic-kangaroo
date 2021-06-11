@@ -385,7 +385,7 @@ sections:
             style: primary
             has_icon: false
             icon: arrow-right
-            icon_position: center
+            icon_position: right
             new_window: false
             no_follow: false
             type: action
