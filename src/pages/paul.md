@@ -370,10 +370,7 @@ sections:
     type: features_section
   - type: grid_section
     title: Tienes dudas sobre usar faja?
-    actions:
-      - label: Join the team
-        url: /style-guide
-        style: primary
+    actions: []
     grid_items:
       - title: ¿Cómo se deben usar las fajas?
         title_align: center
