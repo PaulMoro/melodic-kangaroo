@@ -369,7 +369,7 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
   - type: grid_section
-    title: Team Section
+    title: Tienes Dudas sobre usar faja?
     subtitle: Grid Section Example
     actions:
       - label: Join the team
