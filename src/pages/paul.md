@@ -470,7 +470,7 @@ sections:
     subtitle: Features Section Example
     features:
       - title: ¿Qué pasa si me pongo faja todos los días?
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: Vamos a derrumbar mitos sobre usar fajas.
         actions:
           - label: Learn More
             url: /style-guide
