@@ -416,10 +416,18 @@ sections:
     background_color: none
   - type: cta_section
     title: Mira Fajas Baratas
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: >
+      Queremos que dejes de buscar, entra en accion hoy. Ya sabes:
+
+
+      *   Las fajas funcionan para tener un cuerpo espectacular
+
+
+      *   Ayudan a poner y a moldear tus musculos
+
+
+      *   Si la usas con cremas y ungüentos, maximisas resultados.  [Ver más
+      aquí](https://barbacoas.online/)
     actions:
       - label: Button
         url: /pricing
