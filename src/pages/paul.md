@@ -384,7 +384,7 @@ sections:
             url: '#'
             style: primary
             has_icon: false
-            icon: arrow-left
+            icon: arrow-right
             icon_position: center
             new_window: false
             no_follow: false
