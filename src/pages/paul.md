@@ -380,7 +380,7 @@ sections:
         image: images/gustav-purpleson.jpg
         image_position: top
         actions:
-          - label: lorem-ipsum
+          - label: Leer
             url: '#'
             style: primary
             has_icon: false
