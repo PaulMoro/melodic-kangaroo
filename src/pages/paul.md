@@ -418,7 +418,7 @@ sections:
         image: images/dianne-ameter.jpg
         image_position: top
         actions:
-          - label: let
+          - label: leer
             url: '#'
             style: link
             has_icon: false
