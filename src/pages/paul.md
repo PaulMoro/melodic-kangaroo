@@ -418,7 +418,7 @@ sections:
     align: center
     background_color: none
   - type: hero_section
-    title: This Is A Big Hero Headline
+    title: ¿Cuál es la mejor marca de fajas colombianas?
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
