@@ -471,10 +471,6 @@ sections:
     features:
       - title: The Big Title For the Feature
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          | Syntax      | Description | Test Text     | | :---        |   
-          :----:   |          ---: | | Header      | Title       | Here's this  
-          | | Paragraph   | Text        | And more      |
         actions:
           - label: Learn More
             url: /style-guide
