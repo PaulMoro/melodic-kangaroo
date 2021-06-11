@@ -537,6 +537,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: images/classic/hero.png
     feature_padding_vert: large
     align: center
     background_color: secondary
