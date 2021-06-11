@@ -329,9 +329,6 @@ sections:
         align: left
         type: feature
         content: >
-          Esto es contenido
-
-
           | puesto | Imagen | Precio | Valorizaciones | Opiniones | Envio Gratis
           | Compra |
 
