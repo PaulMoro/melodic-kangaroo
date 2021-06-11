@@ -433,7 +433,7 @@ sections:
         url: /pricing
         style: primary
     actions_position: bottom
-    align: center
+    align: left
     padding_top: large
     padding_bottom: large
     background_color: secondary
