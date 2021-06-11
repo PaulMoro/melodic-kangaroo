@@ -32,7 +32,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/hilary-ouse.jpg
+        image: images/about-2.jpg
       - title: Faja Colombina
         title_align: left
         content: >
