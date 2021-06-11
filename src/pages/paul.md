@@ -409,7 +409,7 @@ sections:
         image_position: top
     grid_cols: three
     align: center
-    background_color: secondary
+    background_color: none
   - type: hero_section
     title: This Is A Big Hero Headline
     subtitle: Optional hero section subtitle
