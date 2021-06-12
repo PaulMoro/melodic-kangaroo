@@ -245,7 +245,7 @@ sections:
       - title_align: left
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Ver en amazon
             url: 'https://amzn.to/3wlpFHp'
             style: primary
             has_icon: false
