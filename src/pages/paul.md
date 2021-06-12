@@ -182,7 +182,7 @@ sections:
         actions:
           - label: Ver en Amazon
             url: '#https://amzn.to/3ghNNoY'
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
