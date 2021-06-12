@@ -161,7 +161,7 @@ sections:
         actions:
           - label: Ver en amazon
             url: 'https://amzn.to/3pKIGAw'
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
