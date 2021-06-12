@@ -310,7 +310,7 @@ sections:
         media_width: fifty
         align: center
         type: feature
-        image: images/classic/feature-1.png
+        image: images/Preguntas sobre fajas.png
       - title: Top 10 de fajas para el cuerpo
         actions: []
         image_alt: lorem-ipsum
