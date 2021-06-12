@@ -160,7 +160,7 @@ sections:
         content_align: left
         actions:
           - label: Ver en amazon
-            url: '#'
+            url: 'https://amzn.to/3pKIGAw'
             style: link
             has_icon: false
             icon: arrow-left
