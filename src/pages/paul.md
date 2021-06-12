@@ -389,6 +389,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
+        actions_align: right
       - title: ¿Cuál es la mejor faja post operatoria?
         title_align: center
         image: images/pregunta3.png
