@@ -204,7 +204,7 @@ sections:
         content_align: left
         actions:
           - label: Ver en Amazon
-            url: '#'
+            url: 'https://amzn.to/3vgHvKg'
             style: link
             has_icon: false
             icon: arrow-left
