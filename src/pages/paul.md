@@ -139,7 +139,7 @@ sections:
         content_align: center
         actions:
           - label: Ver en Amazon
-            url: '#'
+            url: 'https://amzn.to/3znOjJx'
             style: link
             has_icon: false
             icon: arrow-left
