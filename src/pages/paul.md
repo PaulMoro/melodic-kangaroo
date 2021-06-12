@@ -149,7 +149,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-        content_align: left
+        content_align: center
         actions:
           - label: lorem-ipsum
             url: '#'
