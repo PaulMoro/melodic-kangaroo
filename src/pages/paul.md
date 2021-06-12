@@ -123,7 +123,7 @@ sections:
     grid_gap_horiz: medium
     enable_cards: false
     align: center
-    padding_top: none
+    padding_top: small
     padding_bottom: medium
     has_border: true
     background_color: none
