@@ -64,7 +64,7 @@ sections:
       - title: Fajas para Hombre
         title_align: left
         content: >
-          ### Para qué la vas a usar?
+          ### ¿Para qué la vas a usar?
 
 
           Tenemos una sección de todas las fajas de hombre. Si necesitas una
