@@ -374,6 +374,7 @@ sections:
             no_follow: false
             type: action
         actions_align: center
+        image_alt: Como se debe de usar una faja?
       - title: ¿Qué faja es mejor para hacer ejercicio?
         title_align: center
         image: images/dianne-ameter.jpg
