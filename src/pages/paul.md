@@ -170,7 +170,9 @@ sections:
             type: action
         actions_align: center
         actions_width: auto
-        image_alt: lorem-ipsum
+        image_alt: >-
+          Corset entrenador de cintura para mujer, ajustador, faja recortadora,
+          moldeador de cuerpo con varillas de acero y extensor
         image_position: top
         image_width: fifty
         image_align: left
