@@ -224,7 +224,7 @@ sections:
       - title_align: left
         content_align: left
         actions:
-          - label: "\U0001F381  Ver en amazon"
+          - label: "\U0001F381  Ver en Amazon"
             url: 'https://amzn.to/35aKrO7'
             style: primary
             has_icon: false
