@@ -426,7 +426,7 @@ sections:
     actions:
       - url: /pricing
         style: primary
-        label: "\U0001F90DVer fajas en Amazon"
+        label: "\U0001F90D Ver fajas en Amazon"
     actions_position: bottom
     align: left
     padding_top: large
