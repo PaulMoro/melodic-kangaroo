@@ -305,7 +305,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-        image_alt: lorem-ipsum
+        image_alt: Cuanto tiempo debo usar una fajas
         media_position: right
         media_width: fifty
         align: center
