@@ -159,7 +159,7 @@ sections:
       - title_align: left
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Ver en amazon
             url: '#'
             style: link
             has_icon: false
