@@ -26,7 +26,7 @@ sections:
             type: action
         actions_align: center
         actions_width: auto
-        image_alt: lorem-ipsum
+        image_alt: cOMO REDUCIR EL ABDOMEN CON UNA FAJA
         image_position: top
         image_width: fifty
         image_align: left
