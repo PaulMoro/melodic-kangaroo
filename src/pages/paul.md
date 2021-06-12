@@ -140,7 +140,7 @@ sections:
         actions:
           - label: Ver en Amazon
             url: 'https://amzn.to/3znOjJx'
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
