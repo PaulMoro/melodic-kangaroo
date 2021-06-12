@@ -159,7 +159,7 @@ sections:
       - title_align: left
         content_align: left
         actions:
-          - label: Ver en amazon
+          - label: Ver en Amazon
             url: 'https://amzn.to/3pKIGAw'
             style: primary
             has_icon: false
