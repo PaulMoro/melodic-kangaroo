@@ -193,7 +193,7 @@ sections:
             type: action
         actions_align: center
         actions_width: auto
-        image_alt: lorem-ipsum
+        image_alt: ' faja de control del abdomen, modelador de figura con cremallera, body con torso abierto'
         image_position: top
         image_width: fifty
         image_align: left
