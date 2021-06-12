@@ -181,7 +181,7 @@ sections:
         content_align: left
         actions:
           - label: sdsvfndks
-            url: '#'
+            url: '#https://amzn.to/3ghNNoY'
             style: link
             has_icon: false
             icon: arrow-left
