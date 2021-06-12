@@ -180,7 +180,7 @@ sections:
       - title_align: left
         content_align: left
         actions:
-          - label: A ne reV
+          - label: erV
             url: '#'
             style: link
             has_icon: false
