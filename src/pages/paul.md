@@ -149,7 +149,7 @@ sections:
             type: action
         actions_align: left
         actions_width: auto
-        image_alt: lorem-ipsum
+        image_alt: 'Fajas baratas.  chaleco de entrenamiento de cintura '
         image_position: top
         image_width: fifty
         image_align: left
