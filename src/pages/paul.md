@@ -424,8 +424,7 @@ sections:
       *   Si la usas con cremas y ungüentos, maximisas resultados.  [Ver más
       aquí](https://barbacoas.online/)
     actions:
-      - label: Button
-        url: /pricing
+      - url: /pricing
         style: primary
     actions_position: bottom
     align: left
