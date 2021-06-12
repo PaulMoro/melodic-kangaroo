@@ -391,7 +391,7 @@ sections:
             type: action
       - title: ¿Cuál es la mejor faja post operatoria?
         title_align: center
-        image: images/hugh-saturation.jpg
+        image: images/pregunta3.png
         image_position: top
         actions:
           - label: Leer
