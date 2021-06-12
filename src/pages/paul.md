@@ -214,7 +214,6 @@ sections:
             type: action
         actions_align: center
         actions_width: auto
-        image_alt: lorem-ipsum
         image_position: top
         image_width: fifty
         image_align: left
