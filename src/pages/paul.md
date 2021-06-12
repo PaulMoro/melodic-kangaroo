@@ -147,7 +147,7 @@ sections:
             new_window: true
             no_follow: false
             type: action
-        actions_align: right
+        actions_align: center
         actions_width: auto
         image_alt: 'Fajas baratas.  chaleco de entrenamiento de cintura '
         image_position: top
