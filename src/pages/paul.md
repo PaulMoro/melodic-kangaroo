@@ -225,7 +225,7 @@ sections:
         content_align: left
         actions:
           - label: ' '
-            url: '#'
+            url: 'https://amzn.to/35aKrO7'
             style: primary
             has_icon: false
             icon: arrow-left
