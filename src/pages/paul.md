@@ -7,7 +7,7 @@ sections:
       - title: Faja Reductora
         title_align: left
         content: >
-          ### Como reducir el abdomen
+          ### ¿Cómo reducir el abdomen?
 
 
           Hicimos toda una colección para que **tengas un cuerpo soñado**.  Aquí
