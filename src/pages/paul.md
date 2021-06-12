@@ -246,7 +246,7 @@ sections:
         content_align: left
         actions:
           - label: lorem-ipsum
-            url: '#'
+            url: 'https://amzn.to/3wlpFHp'
             style: primary
             has_icon: false
             icon: arrow-left
