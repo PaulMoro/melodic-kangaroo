@@ -262,6 +262,9 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/6.png
+        image_alt: >-
+          Esta faja tipo body recorta la cintura, comprime el vientre y levanta
+          los glúteos
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
