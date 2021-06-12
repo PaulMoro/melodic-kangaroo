@@ -117,6 +117,9 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/postparto.png
+        image_alt: >-
+          Soporte posparto 2 en 1 para recuperación de vientre, cinturón tipo
+          envoltura para cintura/pelvis, faja posnatal para moldear el cuerpo
     grid_cols: four
     grid_gap_vert: large
     grid_gap_horiz: medium
