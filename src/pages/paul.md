@@ -241,6 +241,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/5.png
+        image_alt: 'Shorts moldeadores de cintura alta, para control del abdomen'
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
