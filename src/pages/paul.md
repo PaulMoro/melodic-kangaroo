@@ -405,6 +405,7 @@ sections:
             no_follow: false
             type: action
         image_alt: ¿Cuál es la mejor faja post operatoria?
+        actions_align: center
     grid_cols: three
     align: center
     background_color: none
