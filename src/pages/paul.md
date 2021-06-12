@@ -243,8 +243,6 @@ sections:
         image: images/5.png
         image_alt: 'Shorts y fajas moldeadores de cintura alta, para control del abdomen'
       - title_align: left
-        content: |
-          ##
         content_align: left
         actions:
           - label: lorem-ipsum
