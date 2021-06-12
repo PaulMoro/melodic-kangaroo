@@ -135,8 +135,7 @@ sections:
   - title: Las más recomendadas
     actions: []
     grid_items:
-      - title: lorem-ipsum
-        title_align: left
+      - title_align: left
         content_align: center
         actions:
           - label: lorem-ipsum
