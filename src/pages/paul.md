@@ -361,7 +361,7 @@ sections:
     grid_items:
       - title: ¿Cómo se deben usar las fajas?
         title_align: center
-        image: images/gustav-purpleson.jpg
+        image: images/photo for bestfaja.club (1).png
         image_position: top
         actions:
           - label: Leer
