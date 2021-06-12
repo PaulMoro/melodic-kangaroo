@@ -221,8 +221,7 @@ sections:
         type: grid_item
         image: images/4.png
         image_alt: Calzoncillos de control de barriga
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
