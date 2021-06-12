@@ -426,6 +426,7 @@ sections:
     actions:
       - url: /pricing
         style: primary
+        label: Ver fajas en Amazon
     actions_position: bottom
     align: left
     padding_top: large
