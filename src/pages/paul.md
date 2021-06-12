@@ -32,7 +32,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/about-2.jpg
+        image: images/photo for bestfaja.club.png
       - title: Faja Colombina
         title_align: left
         content: >
