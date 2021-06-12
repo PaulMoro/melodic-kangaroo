@@ -224,7 +224,7 @@ sections:
       - title_align: left
         content_align: left
         actions:
-          - label: nozamA ne reV
+          - label: ' '
             url: '#'
             style: link
             has_icon: false
