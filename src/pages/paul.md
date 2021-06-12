@@ -180,7 +180,7 @@ sections:
       - title_align: left
         content_align: left
         actions:
-          - label: sdsvfndks
+          - label: Ver en amazon
             url: '#https://amzn.to/3ghNNoY'
             style: link
             has_icon: false
