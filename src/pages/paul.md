@@ -83,7 +83,9 @@ sections:
             type: action
         actions_align: left
         actions_width: auto
-        image_alt: lorem-ipsum
+        image_alt: >-
+          Entrenador de cintura para hombre para pérdida de peso, control de
+          barriga de compresión
         image_position: top
         image_width: fifty
         image_align: left
