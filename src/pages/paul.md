@@ -516,10 +516,9 @@ sections:
         media_position: left
         media_width: fifty
       - title: ¿Cuál es la mejor faja para usar?
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Hay muchos tipos de fijas, por eso hicimos toda una clasificación para
+          que eligas una buena faja que cumpla tus deseos.
         actions:
           - label: Learn More
             url: /style-guide
