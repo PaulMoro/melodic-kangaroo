@@ -520,7 +520,7 @@ sections:
           Hay muchos tipos de fijas, por eso hicimos toda una clasificación para
           que eligas una buena faja que cumpla tus deseos.
         actions:
-          - label: Learn More
+          - label: Leer
             url: /style-guide
             style: primary
             has_icon: true
