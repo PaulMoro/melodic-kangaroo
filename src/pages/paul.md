@@ -487,7 +487,7 @@ sections:
     features:
       - title: ¿Qué pasa si me pongo faja todos los días?
         actions:
-          - label: Learn More
+          - label: Leer
             url: /style-guide
             style: primary
             has_icon: true
