@@ -505,7 +505,7 @@ sections:
           Queremos que tengas todo el conocimiento de expertos para que eligas
           la mejor faja.
         actions:
-          - label: Learn More
+          - label: Leer
             url: /style-guide
             style: primary
             has_icon: true
