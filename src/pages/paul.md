@@ -568,7 +568,7 @@ sections:
   - type: cta_section
     title: Elije la mejor faja
     actions:
-      - label: Learn More
+      - label: Ver en amazon
         url: /features
         style: secondary
     actions_position: right
