@@ -497,6 +497,9 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
+        content: |+
+          Vamos a derrumbar mitos sobre usar fajas.
+
       - title: ¿Cómo elegir el tipo de faja?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
