@@ -532,8 +532,8 @@ sections:
         media_width: fifty
       - title: ¿Cuál es el mejor material para las fajas?
         content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Vamos a enseñarte cúales son los materiales, qué diferencia tiene y
+          cúal seria el mejor para ti. 
         actions: []
         media_position: left
         media_width: fifty
