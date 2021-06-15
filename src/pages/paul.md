@@ -501,10 +501,9 @@ sections:
           Vamos a derrumbar mitos sobre usar fajas.
 
       - title: ¿Cómo elegir el tipo de faja?
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Queremos que tengas todo el conocimiento de expertos para que eligas
+          la mejor faja.
         actions:
           - label: Learn More
             url: /style-guide
