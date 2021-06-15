@@ -484,7 +484,6 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: features_section
-    subtitle: Features Section Example
     features:
       - title: ¿Qué pasa si me pongo faja todos los días?
         subtitle: Vamos a derrumbar mitos sobre usar fajas.
