@@ -535,7 +535,7 @@ sections:
           Vamos a enseñarte cúales son los materiales, qué diferencia tiene y
           cúal seria el mejor para ti. 
         actions:
-          - label: lorem-ipsum
+          - label: Leer
             url: '#'
             style: link
             has_icon: false
