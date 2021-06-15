@@ -486,7 +486,9 @@ sections:
   - type: features_section
     features:
       - title: ¿Qué pasa si me pongo faja todos los días?
-        subtitle: Vamos a derrumbar mitos sobre usar fajas.
+        subtitle: >-
+          Vamos a derrumbar mitos sobre usar fajas. Queremso qeu sea una experta
+          y que eligas la mejor faja que puedas utilizar.
         actions:
           - label: Learn More
             url: /style-guide
