@@ -558,7 +558,7 @@ sections:
           Somo un grupo de personas que desean darte la mejor faja que existe
           para lo que tu la necesitas. Deseo que tengas conocimientos para que
           elijas a tu medida.
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+        subtitle: Autor de bestfajas.club
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
         media_position: right
