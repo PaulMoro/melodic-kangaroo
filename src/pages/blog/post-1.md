@@ -1,5 +1,5 @@
 ---
-title: Utrum Igitur Tibi Litteram Videor An Totas Paginas
+title: Cuánto tiempo se debe usar una faja para moldear la cintura?
 subtitle: >-
   Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
   videre, nihil tranquilli potest.
