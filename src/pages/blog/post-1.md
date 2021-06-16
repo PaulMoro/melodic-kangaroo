@@ -66,7 +66,7 @@ Nuestro equipo de experto aconseja iniciar con las fajas tipo cinturón, que son
 
 ### [**Ver Cinturillas**](https://amazon.com)
 
-****![](/\_static/app-assets/2.png)
+![](/\_static/app-assets/2.png)
 
 ### **Beneficios de usar una faja**
 
