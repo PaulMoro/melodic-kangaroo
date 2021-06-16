@@ -64,6 +64,10 @@ Lo más importante es que tu cuerpo esté acostumbrado a la compresión, si no l
 
 Nuestro equipo de experto aconseja iniciar con las fajas tipo cinturón, que son aquellas que puedes modificar la cantidad de presión que se ejercerse en tu cintura.
 
+### [**Ver Cinturillas**](https://amazon.com)
+
+****![](/\_static/app-assets/2.png)
+
 ### **Beneficios de usar una faja**
 
 Pero aja, tu le pones presión a tu cuerpo, te ves divina, pero **nuestra meta es que ese resultado se mantengan en el tiempo**. Las fajas aquí tienen su super poder.
