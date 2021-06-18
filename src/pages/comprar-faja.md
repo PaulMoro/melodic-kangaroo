@@ -64,9 +64,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: >-
-          Shapewear para las mujeres sin costuras firme triple control ropa
-          interior
+      - title: Shapewear para las mujeres sin costuras triple control ropa interior
         title_align: left
         content: "<https://amzn.to/2S9V3Kd>   Body que no se enrolla en la cintura. La faja esta compuesta por nailon y \_elastano\_que permiten que la prenda dure años.\n\n"
         content_align: left
