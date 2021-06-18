@@ -10,7 +10,7 @@ sections:
       - label: Ver TOP 6
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Ir a Amazon
         url: /features
         style: secondary
     image: images/classic/hero.png
