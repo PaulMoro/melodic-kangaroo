@@ -1,5 +1,5 @@
 ---
-title: Home
+title: comrar-faja
 sections:
   - type: hero_section
     title: Aqui vas a comprar las Mejores Fajas
