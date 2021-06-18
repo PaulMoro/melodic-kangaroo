@@ -2,7 +2,7 @@
 title: comprar-faja
 sections:
   - type: hero_section
-    title: Aqui vas a comprar las Mejores Fajas
+    title: Compra Fajas aquí
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
