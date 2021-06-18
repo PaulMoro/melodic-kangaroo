@@ -68,10 +68,7 @@ sections:
           Shapewear para las mujeres sin costuras firme triple control ropa
           interior
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: "<https://amzn.to/2S9V3Kd>   Body que no se enrolla en la cintura. La faja esta compuesta por nailon y \_elastano\_que permiten que la prenda dure años.\n\n"
         content_align: left
         actions:
           - label: Learn More
