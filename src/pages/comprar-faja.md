@@ -97,17 +97,8 @@ sections:
           <https://amzn.to/3cOBwG3> Esta faja te va a ayudar para los
       - title: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          https://amzn.to/3cRMtad
         content_align: left
         actions: []
         actions_align: left
