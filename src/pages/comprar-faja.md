@@ -7,7 +7,7 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
     actions:
-      - label: Ver TOP 6
+      - label: Ver catálogo
         url: /pricing
         style: primary
       - label: Ir a Amazon
