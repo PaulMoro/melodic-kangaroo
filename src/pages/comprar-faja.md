@@ -46,10 +46,10 @@ sections:
         image_has_padding: true
       - title: DIANE & GEORDI Fajas Colombianas Postparto Levanta Cola
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          <https://amzn.to/3gBuDu4> Faja para acoplar todo el cuerpo, levanta
+          nalga y forma tu estomago, vientre, pierna y cola sin problemas. Tiene
+          todas las costuras reforzadas
         content_align: left
         actions:
           - label: Learn More
