@@ -2,8 +2,12 @@ const siteMetadata = require('./site-metadata.json')
 
 module.exports = {
     pathPrefix: '/',
-    siteMetadata: siteMetadata,
+    siteMetadata: {
+        siteMetadata,
+        siteUrl: `https://bestfaja.club`,
+    },
     plugins: [
+        `gatsby-plugin-sitemap`,
         `gatsby-plugin-react-helmet`,
         `gatsby-source-data`,
         `gatsby-transformer-remark`,
