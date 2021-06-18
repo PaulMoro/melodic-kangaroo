@@ -120,7 +120,9 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: moldeador de cuerpo de cintura alta
+      - title: >-
+          moldeador de cuerpo de cintura alta. Control de abdomen,
+          adelgazamiento de cintura
         title_align: left
         content: >
           <https://amzn.to/3zDBbzN> ajuste en el vientre y espalda, da forma a
