@@ -7,7 +7,7 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
     actions:
-      - label: Try Free
+      - label: Ver TOP 6
         url: /pricing
         style: primary
       - label: Learn More
