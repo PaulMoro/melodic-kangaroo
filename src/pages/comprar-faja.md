@@ -23,7 +23,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Las 6 mejores fajas para comprar
-    subtitle: ven y mira
+    subtitle: Ven y mira
     grid_items:
       - title: Section Item 1
         title_align: left
