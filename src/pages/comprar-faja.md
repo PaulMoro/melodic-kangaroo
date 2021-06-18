@@ -25,7 +25,7 @@ sections:
     title: Las 6 mejores fajas para comprar
     subtitle: Ven y mira
     grid_items:
-      - title: Section Item 1
+      - title: Corsé deportivo modelador de figura de látex para mujer
         title_align: left
         content: >
           <https://amzn.to/3vxXXGg> Excelente faja de uso diario, se accepta
