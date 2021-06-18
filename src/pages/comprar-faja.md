@@ -94,7 +94,7 @@ sections:
         image_has_padding: false
         type: grid_item
         content: |
-          Esta faja te va a ayudar para los
+          <https://amzn.to/3cOBwG3> Esta faja te va a ayudar para los
       - title: lorem-ipsum
         title_align: left
         content: >-
