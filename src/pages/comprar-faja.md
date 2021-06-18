@@ -122,17 +122,10 @@ sections:
         type: grid_item
       - title: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          <https://amzn.to/3zDBbzN> ajuste en el vientre y espalda, da forma a
+          los gruteos mientras se mantiene invisible y discreto. Uso para toda
+          ocación.
         content_align: left
         actions: []
         actions_align: left
