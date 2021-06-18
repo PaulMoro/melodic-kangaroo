@@ -27,10 +27,9 @@ sections:
     grid_items:
       - title: Section Item 1
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          <https://amzn.to/3vxXXGg> Excelente faja de uso diario, se accepta
+          para todas las actividades. Muchos colores para elegir.
         content_align: left
         actions:
           - label: Learn More
