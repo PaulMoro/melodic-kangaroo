@@ -98,7 +98,7 @@ sections:
       - title: lorem-ipsum
         title_align: left
         content: |
-          https://amzn.to/3cRMtad
+          <https://amzn.to/3cRMtad> 
         content_align: left
         actions: []
         actions_align: left
