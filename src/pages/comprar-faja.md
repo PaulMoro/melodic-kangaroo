@@ -3,7 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: Aqui vas a comprar las Mejores Fajas
-    subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
