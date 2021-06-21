@@ -11,7 +11,7 @@ sections:
         url: /pricing
         style: primary
       - label: Ir a Amazon
-        url: /features
+        url: 'https://amzn.to/3gVbIJX'
         style: secondary
     image: images/classic/hero.png
     image_alt: Hero section placeholder image
