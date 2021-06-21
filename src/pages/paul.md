@@ -553,16 +553,7 @@ sections:
     align: center
     background_color: secondary
   - type: features_section
-    features:
-      - title: >-
-          Somo un grupo de personas que desean darte la mejor faja que existe
-          para lo que tu la necesitas. Deseo que tengas conocimientos para que
-          elijas a tu medida.
-        subtitle: Autor de bestfajas.club
-        image: images/brandon-guidelines.png
-        image_alt: Brandon Guidelines
-        media_position: right
-        media_width: thirty-three
+    features: []
     feature_padding_vert: small
     background_color: primary
   - type: cta_section
