@@ -187,7 +187,7 @@ sections:
         content_align: left
         actions:
           - label: "\U0001F381 Ver en Amazon"
-            url: '#https://amzn.to/3ghNNoY'
+            url: 'https://amzn.to/3ghNNoY'
             style: primary
             has_icon: false
             icon: arrow-left
