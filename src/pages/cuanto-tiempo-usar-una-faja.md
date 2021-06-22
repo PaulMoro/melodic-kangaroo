@@ -1,5 +1,5 @@
 ---
-title: Style Guide
+title: ¿Cuánto tiempo se debe usar una faja para moldear la cintura?
 seo:
   title: Theme Style Guide
   description: A reference for suggested typographic treatment and styles for your content
