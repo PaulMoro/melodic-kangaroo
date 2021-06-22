@@ -6,11 +6,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - content: >+
-          Cuando termines esta lectura, vas a tener los tips de toda una
-          experta, criterios para elegir tu faja indicada. Ya es solo cuestión
-          de **tiempo para que esa cintura se vea espectacular!** 
-
+      - content: "Aquí vamos a ver leyes, reglas e importantes consejos para que tu faja muestre\_resultados en poco tiempo, de 1 a 3 meses, con sencillos pasos. Además te daré un par de herramientas que fortalecerán tu camino para ese cuerpo deseado.\n\n\nCuando termines esta lectura, vas a tener los tips de toda una experta, criterios para elegir tu faja indicada. Ya es solo cuestión de **tiempo para que esa cintura se vea espectacular!**\n"
         image_alt: Top view of business meeting
         media_position: right
         media_width: fifty
