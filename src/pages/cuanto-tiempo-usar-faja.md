@@ -52,7 +52,7 @@ sections:
   - type: grid_section
     title: Mira fajas tipo Cinturon
     grid_items:
-      - title: Section Item 1
+      - title: 'https://amzn.to/3wQ3Akr'
         title_align: left
         content_align: left
         actions:
