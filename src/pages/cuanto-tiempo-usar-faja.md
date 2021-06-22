@@ -7,8 +7,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: Section Title One
-        content: >+
+      - content: >+
           Cuando termines esta lectura, vas a tener los tips de toda una
           experta, criterios para elegir tu faja indicada. Ya es solo cuestión
           de **tiempo para que esa cintura se vea espectacular!** 
