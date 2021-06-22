@@ -2,7 +2,7 @@
 title: Features
 sections:
   - type: hero_section
-    title: Explore Features
+    title: ¿Cuánto tiempo se debe usar una faja para moldear la cintura?
     subtitle: Features Page Demo
     background_color: primary
   - type: features_section
