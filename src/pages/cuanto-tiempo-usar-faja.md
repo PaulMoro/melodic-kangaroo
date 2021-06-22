@@ -49,6 +49,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+    feature_padding_vert: medium
   - type: grid_section
     title: Mira fajas tipo Cinturon
     grid_items:
