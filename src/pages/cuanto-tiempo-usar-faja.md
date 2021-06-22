@@ -26,8 +26,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         content: >
           Ahora si, a lo que vinimos y es que tus resultados están ligados a la
           cantidad de tiempo que lleves puesta tu faja. Pero con un
