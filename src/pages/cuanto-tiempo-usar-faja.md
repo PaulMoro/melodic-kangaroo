@@ -15,6 +15,7 @@ sections:
         image_alt: Top view of business meeting
         media_position: right
         media_width: fifty
+        image: images/great-pine.png
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         content: >-
