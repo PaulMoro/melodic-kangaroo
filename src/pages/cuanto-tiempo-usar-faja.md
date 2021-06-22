@@ -28,17 +28,23 @@ sections:
         type: feature
       - title: lorem-ipsum
         subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Ahora si, a lo que vinimos y es que tus resultados están ligados a la
+          cantidad de tiempo que lleves puesta tu faja. Pero con un
+          advertencia. 
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Lo más importante es que tu cuerpo esté acostumbrado a la compresión,
+          si no lo está, vamos a usar nuestra cinturilla de 4 a 6 horas diarias,
+          preferiblemente en las mañanas o **cuando tu estés más activa en el
+          día**, todo esto en la primera semana. En la segunda semana, nuestra
+          meta será de 6 a 8 horas. Nuestra meta con 10 horas diarias. Pero, con
+          cuál faja inicio primero?
 
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          Nuestro equipo de experto aconseja iniciar con las fajas tipo
+          cinturón, que son aquellas que puedes modificar la cantidad de presión
+          que se ejercerse en tu cintura.
         actions: []
         image_alt: lorem-ipsum
         media_position: top
