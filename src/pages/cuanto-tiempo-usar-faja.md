@@ -12,17 +12,14 @@ sections:
         media_width: fifty
         image: images/great-pine.png
       - title: Indice
-        content: >-
-          ## Lorem ipsum
+        content: |
+          *   **Beneficios de usar una faja**
 
+          *   **Acelera tus resultados**
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   **El lado oscuro**
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   **Todo es bueno**
         actions: []
         image_alt: lorem-ipsum
         media_position: top
