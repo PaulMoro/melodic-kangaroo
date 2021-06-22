@@ -12,7 +12,6 @@ sections:
         media_width: fifty
         image: images/great-pine.png
       - title: Indice
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
