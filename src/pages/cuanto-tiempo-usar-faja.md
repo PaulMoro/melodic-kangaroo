@@ -9,10 +9,11 @@ sections:
     features:
       - title: Section Title One
         subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >+
+          Cuando termines esta lectura, vas a tener los tips de toda una
+          experta, criterios para elegir tu faja indicada. Ya es solo cuestión
+          de **tiempo para que esa cintura se vea espectacular!** 
+
         image_alt: Top view of business meeting
         media_position: right
         media_width: fifty
